@@ -1,0 +1,16 @@
+from flask import Flask, url_for
+app = Flask(__name__)
+
+@app.route('/test/')
+def test():
+    return 'test'
+
+@app.route('/profile/<username>/userlevel/')
+def get_profile(username):
+    return 'profile : ' + username + userlevel
+    
+if __name__ == '__main__':
+    with app.test_request_context():
+        print (url_for('test'))
+        print (url_for('get_profile', username='test', userlevel='1'))
+        app.run()

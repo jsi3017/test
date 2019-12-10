@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//ch01/hello.py=utf-8
+encoding//ch02/hello.py=utf-8
+encoding//ch03/hello_flask.py=utf-8
+encoding//ch03/hello_flask/src/hello_flask.py=utf-8
+encoding//ch03/test_url_for.py=utf-8
+encoding//ch04/minitwit/minitwit.py=utf-8
+encoding//ch04/minitwit/minitwit_tests.py=utf-8

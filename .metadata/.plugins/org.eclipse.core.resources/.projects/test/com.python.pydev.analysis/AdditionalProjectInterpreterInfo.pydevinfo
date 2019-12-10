@@ -1,0 +1,50 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\mypp\.metadata\.plugins\org.eclipse.core.resources\.projects\test\com.python.pydev.analysis\v2_indexcache
+minitwit.minitwit|1575974452599964000|C:\mypp\test\minitwit\minitwit.py
+minitwit.minitwit_tests|1575460995871141000|C:\mypp\test\minitwit\minitwit_tests.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+6=MiniTwitTestCase.setUp
+1=C:\mypp\test\minitwit\minitwit.py
+2=minitwit.minitwit
+3=C:\mypp\test\minitwit\minitwit_tests.py
+4=minitwit.minitwit_tests
+5=MiniTwitTestCase
+-- END DICTIONARY
+-- START TREE 1
+22
+add|1|add_message!1^222#5*18@
+app|1|app!1^44#1*19@
+bef|1|before_request!1^111#5*18@
+con|1|connect_db!1^50#5*18@
+dat|1|DATABASE!1^38#1*19@
+deb|1|DEBUG!1^40#1*19@
+fol|1|follow_user!1^190#5*18@
+for|1|format_datetime!1^95#5*18@
+get|1|get_user_id!1^88#5*18@
+gra|1|gravatar_url!1^102#5*18@
+ini|1|init_db!1^56#5*18@
+log|2|logout!1^298#5*18@login!1^240#5*18@
+min|1|MiniTwitTestCase!3^17#7*33@
+per|1|PER_PAGE!1^39#1*19@
+pub|1|public_timeline!1^156#5*18@
+que|1|query_db!1^67#5*18@
+reg|1|register!1^263#5*18@
+sec|1|SECRET_KEY!1^41#1*19@
+tea|1|teardown_request!1^128#5*18@
+tim|1|timeline!1^135#5*18@
+unf|1|unfollow_user!1^206#5*18@
+use|1|user_timeline!1^167#5*18@
+-- END TREE
+-- START TREE 2
+7
+add|1|add_message!5&3^61#9*34@
+app|1|app!6&3^22#9*35@
+log|2|login!5&3^45#9*34@logout!5&3^57#9*34@
+reg|2|register!5&3^32#9*34@register_and_login!5&3^52#9*34@
+set|1|setUp!5&3^19#9*34@
+tea|1|tearDown!5&3^25#9*34@
+tes|4|test_timelines!5&3^107#9*34@test_login_logout!5&3^87#9*34@test_message_recording!5&3^98#9*34@test_register!5&3^71#9*34@
+-- END TREE
